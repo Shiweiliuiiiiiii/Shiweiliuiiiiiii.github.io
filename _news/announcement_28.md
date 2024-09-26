@@ -4,4 +4,4 @@ date: 2024-09-21 15:59:00-0400
 inline: true
 related_posts: false
 ---
-📝 3 papers are accepted by **NeurIPS 2024**: [Alpha Pruning](https://arxiv.org/pdf/2403.04797), [Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/2312.04727), and [Alpha Pruning]().
+📝 3 papers are accepted by **NeurIPS 2024**: [Found in the Middle](https://arxiv.org/pdf/2403.04797), [Sparse 3D Medical](https://arxiv.org/abs/2312.04727), [Alpha Pruning]().
